@@ -9,18 +9,18 @@ require (
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/aws/amazon-ec2-instance-selector/v2 v2.0.4-0.20220124212200-2aee60ac608e
 	github.com/aws/aws-sdk-go v1.44.35
-	github.com/aws/aws-sdk-go-v2 v1.16.15
+	github.com/aws/aws-sdk-go-v2 v1.16.16
 	github.com/aws/aws-sdk-go-v2/config v1.17.5
 	github.com/aws/aws-sdk-go-v2/credentials v1.12.18
-	github.com/aws/aws-sdk-go-v2/service/autoscaling v1.23.14
+	github.com/aws/aws-sdk-go-v2/service/autoscaling v1.23.16
 	github.com/aws/aws-sdk-go-v2/service/cloudformation v1.22.8
 	github.com/aws/aws-sdk-go-v2/service/cloudtrail v1.16.12
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.15.18
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.15.20
 	github.com/aws/aws-sdk-go-v2/service/cognitoidentityprovider v1.17.3
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.53.0
 	github.com/aws/aws-sdk-go-v2/service/eks v1.22.0
-	github.com/aws/aws-sdk-go-v2/service/elasticloadbalancing v1.14.16
-	github.com/aws/aws-sdk-go-v2/service/elasticloadbalancingv2 v1.18.17
+	github.com/aws/aws-sdk-go-v2/service/elasticloadbalancing v1.14.18
+	github.com/aws/aws-sdk-go-v2/service/elasticloadbalancingv2 v1.18.19
 	github.com/aws/aws-sdk-go-v2/service/iam v1.18.17
 	github.com/aws/aws-sdk-go-v2/service/kms v1.18.9
 	github.com/aws/aws-sdk-go-v2/service/outposts v1.22.1
@@ -31,7 +31,7 @@ require (
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/bxcodec/faker v2.0.1+incompatible
 	github.com/cenk/backoff v2.2.1+incompatible
-	github.com/cloudflare/cfssl v1.6.1
+	github.com/cloudflare/cfssl v1.6.2
 	github.com/dave/dst v0.27.0
 	github.com/dave/jennifer v1.5.1
 	github.com/dlespiau/kube-test-harness v0.0.0-20200915102055-a03579200ae8
@@ -70,7 +70,7 @@ require (
 	github.com/weaveworks/launcher v0.0.2-0.20200715141516-1ca323f1de15
 	github.com/weaveworks/schemer v0.0.0-20210802122110-338b258ad2ca
 	github.com/xgfone/netaddr v0.5.1
-	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e
+	golang.org/x/crypto v0.0.0-20220824171710-5757bc0c5503
 	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f
 	golang.org/x/tools v0.1.10
 	gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0
@@ -138,8 +138,8 @@ require (
 	github.com/ashanbrown/makezero v1.1.1 // indirect
 	github.com/atc0005/go-teams-notify/v2 v2.6.1 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.12.15 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.1.22 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.4.16 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.1.23 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.4.17 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.3.22 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.9.15 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sso v1.11.21 // indirect
